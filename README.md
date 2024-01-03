@@ -2,10 +2,6 @@
 
 <h3 align="center">🙋 Profile 🙋</h3>
 <h4 align="center"> SSAFY@Seoul 2023. 07. 00. ~ </h4>
-
-![Mrrchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrrchoi&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=csj9912)](https://solved.ac/csj9912/)
-
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -31,4 +27,8 @@
 <br>
 
 <h3 align="center">📢 About Me 📢</h3>
+
+![Mrrchoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrrchoi&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=csj9912)](https://solved.ac/csj9912/)
+
 <br>
