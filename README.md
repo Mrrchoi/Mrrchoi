@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=Welcome+to+Choi`s+GitHub!👋&fontSize=40&fontColor=808080)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&height=140&text=Welcome+to+Choi`s+GitHub!👋&fontSize=45&fontColor=808080)
 
 <h3 align="center">🙋 Profile 🙋</h3>
 <h4 align="center"> SSAFY@Seoul 2023. 07. 00. ~ </h4>
